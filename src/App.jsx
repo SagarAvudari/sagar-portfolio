@@ -358,7 +358,7 @@ function App() {
       {/* Footer */}
       <footer>
         <p>
-          © 2026 Sagar Avudari. Built with React.
+          © 2026 Sagar Avudari
         </p>
       </footer>
     </div>
