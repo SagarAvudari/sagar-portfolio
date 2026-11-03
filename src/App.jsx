@@ -313,7 +313,7 @@ function App() {
       <section id="contact" className="contact-section">
         <div className="container contact-container">
 
-          <p className="section-label">CONTACT</p>
+          <p className="section-label"></p>
 
           <h2 className="section-title">
             Let's connect.
